@@ -5,6 +5,8 @@ https://cloud.tencent.com/developer/article/2197058
 
 https://github.com/PaddlePaddle/PaddleNLP/blob/develop/model_zoo/uie/doccano.md#%E5%AE%89%E8%A3%85
 
+安装中途有个报错error: metadata-generation-failed，使用 pip install pip install doccano --use-pep517解决了
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/doccano/doccano/master/docs/images/logo/doccano.png">
 </div>
