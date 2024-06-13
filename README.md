@@ -1,7 +1,10 @@
-========
+
 # 参考链接
+
 https://cloud.tencent.com/developer/article/2197058
-=========
+
+https://github.com/PaddlePaddle/PaddleNLP/blob/develop/model_zoo/uie/doccano.md#%E5%AE%89%E8%A3%85
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/doccano/doccano/master/docs/images/logo/doccano.png">
 </div>
